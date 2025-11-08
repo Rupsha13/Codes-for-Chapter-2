@@ -1,0 +1,1 @@
+In this repository I attached the R codes I used for chapter 2 of my dissertation - Can Machines pick Managers Ex Ante? In this chapter I clean the mutual fund data. I use both CRSP and MOrningstar. I create some variables that I need for predicting returns. I do the clenaing mostly in R. To predict returns I use python and machine learning models.
